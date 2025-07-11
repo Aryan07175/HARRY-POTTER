@@ -38,10 +38,10 @@ CSS3 – Fully responsive design with custom theming per page.
 
 JavaScript – For quizzes and dynamic interactions.
 
+
+
 🗂️ Project Structure
-makefile
-Copy
-Edit
+
 HARRYPOTTER-main/
 ├── index.html                 # Home page
 ├── about.html                # About the world of Harry Potter
@@ -55,8 +55,7 @@ HARRYPOTTER-main/
 ├── deathly.html              # Book 7
 ├── ... and more!
 ├── *.css                     # Each section has its own stylesheet
-🚀 How to Run
-Download or clone this repository.
+
 
 Open index.html in your browser.
 
