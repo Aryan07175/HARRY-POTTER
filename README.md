@@ -71,7 +71,9 @@ HARRYPOTTER
 ├── *.css                     # Each section has its own stylesheet
 
 
+
 Open index.html in your browser.
+
 
 Explore the magical world!
 
