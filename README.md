@@ -42,16 +42,30 @@ JavaScript – For quizzes and dynamic interactions.
 
 🗂️ Project Structure
 
-HARRYPOTTER-main/
+HARRYPOTTER
+
+
+-main/
+
 ├── index.html                 # Home page
+
 ├── about.html                # About the world of Harry Potter
+
 ├── patronous.html            # Patronus quiz
+
 ├── patronous.json            # Patronus data
+
 ├── patrounous.js             # Quiz logic
+
 ├── patronousmain.html        # Patronus quiz layout
+
 ├── philosopher'sstone.html   # Book 1
+
 ├── chamber.html              # Book 2
+
 ├── goblet.html               # Book 4
+
+
 ├── deathly.html              # Book 7
 ├── ... and more!
 ├── *.css                     # Each section has its own stylesheet
